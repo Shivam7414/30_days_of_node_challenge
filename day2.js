@@ -18,7 +18,7 @@ async function writeToFile(filePath, content) {
     }
 }
 
-// Example usage of the writeToFile function with different file paths
+// test cases
 writeToFile('test-files/output1.txt', 'Sample content.')
     .catch(console.error);
 
