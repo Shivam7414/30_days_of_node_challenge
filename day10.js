@@ -18,4 +18,4 @@ app.get('/', function(req, res) {
 app.listen(3000, () => {
     // Log a message when the server starts listening
     console.log('Server is running on port 3000');
-});
+})
